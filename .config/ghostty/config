@@ -1,0 +1,23 @@
+font-family = JetBrainsMonoNL Nerd Font Mono
+font-size = 16
+theme = TokyoNight
+shell-integration-features = no-cursor,sudo,no-title,ssh-env,ssh-terminfo
+cursor-style = block
+# background-opacity = 0.96
+
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 2
+
+window-padding-balance = true 
+window-save-state = always
+macos-titlebar-style= tabs
+title = " "
+window-colorspace = "display-p3"
+# from tokyonight
+background = 1A1B26
+foreground = C0CAF5
+
+# other
+# copy-on-select = clipboard
+
+custom-shader = shaders/cursor_blaze.glsl
